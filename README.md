@@ -1,4 +1,4 @@
 Biblia
 ======
 
-Firefox OS Application
+A simple but useful test Firefox OS Application for everyone
