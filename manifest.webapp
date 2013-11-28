@@ -1,0 +1,17 @@
+{
+    "name": "Biblia",
+    "description": "Biblia mindenkinek a mindennapokhoz!",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Istvan Dobrentei",
+        "url": "http://www.dobrenteiistvan.hu"
+    },
+    "icons": {
+        "16": "/img/icon16.png",
+        "32": "/img/icon32.png",
+        "48": "/img/icon48.png",
+        "64": "/img/icon64.png",
+        "128": "/img/icon128.png"
+    },
+    "default_locale": "hu"
+}
